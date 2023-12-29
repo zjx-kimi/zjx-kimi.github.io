@@ -1,11 +1,10 @@
 陈奕含：暗恋[黎展宏](\lzh)。
-
 <script src="https://giscus.app/client.js"
         data-repo="zjx-kimi/zjx-kimi.github.io"
         data-repo-id="R_kgDOK-ygsA"
-        data-category="[在此输入分类名]"
-        data-category-id="[在此输入分类 ID]"
-        data-mapping="pathname"
+        data-category="Show and tell"
+        data-category-id="DIC_kwDOK-ygsM4CcEkK"
+        data-mapping="title"
         data-strict="1"
         data-reactions-enabled="1"
         data-emit-metadata="0"
