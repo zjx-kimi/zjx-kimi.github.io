@@ -1,4 +1,4 @@
-陈奕含：你他妈暗恋黎展宏也不承认，不愧是黎展宏妹子，666，还把我和zwk扯上了。
+陈奕含：暗恋[黎展宏](\lzh)。
 
 <script src="https://giscus.app/client.js"
         data-repo="zjx-kimi/zjx-kimi.github.io"
