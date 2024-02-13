@@ -5,7 +5,7 @@
 |       Name         |                                    Github                                 |                                Website                                |
 | :----------------: | :-----------------------------------------------------------------------: | :-------------------------------------------------------------------: |
 |       Code         | [Code](https://github.com/zjx-kimi/Code)                                  |                                   -                                   |
-|       Chat         | [Code](https://github.com/zjx-kimi/Chat)                                  |  [zjx-kimi](https://zjx-kimi.github.io/Chat)                      | 
+|       Chat         | [Chat](https://github.com/zjx-kimi/Chat)                                  |  [Chat](https://zjx-kimi.github.io/Chat)                      | 
 |      zjx-kimi      | [zjx-kimi](https://github.com/zjx-kimi/zjx-kimi)                          |  [zjx-kimi](https://zjx-kimi.github.io/zjx-kimi)                      |
 | zjx-kimi.github.io | [zjx-kimi.github.io](https://github.com/zjx-kimi/zjx-kimi.github.io)      |  [zjx-kimi.github.io](https://zjx-kimi.github.io/zjx-kimi.github.io)  |
 |Test-Data-Generator | [Test-Data-Generator](https://github.com/zjx-kimi/Test-Data-Generator)    |  [Test-Data-Generator](https://zjx-kimi.github.io/Test-Data-Generator)|
