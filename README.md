@@ -11,8 +11,5 @@
 |Test-Data-Generator | [Test-Data-Generator](https://github.com/zjx-kimi/Test-Data-Generator)    |  [Test-Data-Generator](https://zjx-kimi.github.io/Test-Data-Generator)|   2    |   C++    |
 |Found-program-error | [Found-program-error](https://github.com/zjx-kimi/Found-program-error)    |  [Found-program-error](https://zjx-kimi.github.io/Found-program-error)|   2    |   C++    |
 
-
-## My Website
-**[NextCloud](https://1c4dc9a5.r9.vip.cpolar.cn/)**
-
-**[码拓](https://65fd28fd.r9.vip.cpolar.cn/)**
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7113305446519837"
+     crossorigin="anonymous"></script>
